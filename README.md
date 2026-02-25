@@ -2,9 +2,9 @@
 
 COMPANY: CODTECH IT SOLUTIONS PRIVATE LIMITED
 
-NAME: SIDDHI SANJAY SHINDE
+NAME: Rutuja Sheshrao Neharkar
 
-INTERN ID: CTIS3348
+INTERN ID: CTIS3531
 
 DOMAIN: FRONTEND WEB DEVELOPMENT
 
@@ -23,8 +23,6 @@ CSS (Design and Styling): CSS is responsible for enhancing the visual appearance
 JavaScript (Functionality and Logic): JavaScript is the core component that makes the quiz application interactive and dynamic. It handles the logic behind displaying questions, checking selected answers, calculating scores, and moving to the next question. Questions and answers are usually stored in arrays or objects, and JavaScript dynamically updates the content of the webpage using DOM manipulation. Event listeners are used to detect user clicks on answer options and buttons. Conditional statements determine whether the selected answer is correct or incorrect and update the score accordingly. JavaScript also controls the display of the final result and allows users to restart the quiz. Without JavaScript, the application would remain static; therefore, it plays a crucial role in delivering a smooth and interactive user experience.
 
 OUTPUT:
-<img width="991" height="911" alt="Image" src="https://github.com/user-attachments/assets/3074b649-560c-4eeb-b537-e7795d5825f0" />
-
-<img width="1893" height="909" alt="Image" src="https://github.com/user-attachments/assets/ac05d6e9-5d24-497b-8d43-5926df1a879f" />
-
-<img width="1920" height="909" alt="Image" src="https://github.com/user-attachments/assets/1127b4e2-7be6-4595-84a2-e2277b8d5c45" />
+<img width="1920" height="909" alt="Image" src="https://github.com/user-attachments/assets/0f5764af-7207-4471-85c4-baab1b906210" />
+<img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/1179e481-a5bc-4b85-8b44-68bd65dab362" />
+<img width="1920" height="901" alt="Image" src="https://github.com/user-attachments/assets/990225fc-591e-4a5e-bc84-33a130bf2c3d" />
